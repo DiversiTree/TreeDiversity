@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+example_data/paris_trees_84_filtered.gpkg
+example_data/plantTaxonomy.csv
