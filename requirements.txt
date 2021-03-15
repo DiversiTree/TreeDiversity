@@ -1,0 +1,6 @@
+pandas
+geopandas
+matplotlib
+descartes
+tqdm
+numpy
