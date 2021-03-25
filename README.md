@@ -1,3 +1,4 @@
+![Visual Abstract of DiversiTree tree diversity study](https://github.com/nofurtherinformation/TreeDiversity/blob/main/images/visual_abstract.jpg?raw=true)
 # Diversi*Tree* Notebooks
 ### About
 These Python notebooks are intended to help urban foresters, planners, greeners, and ecologists in quantifying tree ecosystem diversity in cities. Our recent study (citation) explored street tree diversity contrasted between the city center and outer areas, and we made these notebooks to compute tree diversity in these areas across two major dimensions:
