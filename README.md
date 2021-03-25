@@ -1,4 +1,4 @@
-![Visual Abstract of DiversiTree tree diversity study](https://github.com/nofurtherinformation/TreeDiversity/blob/main/images/visual_abstract.jpg?raw=true)
+<img src="https://github.com/nofurtherinformation/TreeDiversity/blob/main/images/visual_abstract.jpg?raw=true" alt="Diversitree visual abstract" width="100%" />
 # Diversi*Tree* Notebooks
 ### About
 These Python notebooks are intended to help urban foresters, planners, greeners, and ecologists in quantifying tree ecosystem diversity in cities. Our recent study (citation) explored street tree diversity contrasted between the city center and outer areas, and we made these notebooks to compute tree diversity in these areas across two major dimensions:
@@ -46,3 +46,11 @@ Galle, N., Halpern, D., Nitoslawski, S., Duarte, F., Ratti, C., & Pilla, F. (202
 Want to learn more? Check out [DiversiTree's Website!](https://diversitree.netlify.app/)
 
 _DiversiTree is a project of:_
+
+<a href="https://www.ucd.ie/"><img src="https://raw.githubusercontent.com/nofurtherinformation/TreeDiversity/main/images/ucd.png" width="42px" height="60px" alt="University College Dublin Logo" /></a>&emsp;<a href="http://senseable.mit.edu/"><img src="https://raw.githubusercontent.com/nofurtherinformation/TreeDiversity/main/images/mit_scl_logo_black.svg" alt="Senseable City Lab Logo" width="355px" height="60px"/></a>
+
+___
+
+<a href="https://connectingnature.eu/"><img src="https://github.com/nofurtherinformation/TreeDiversity/blob/main/images/connectingnature.png?raw=true" width="80px" height="80px" alt="Connecting Nature Logo" /></a>
+
+This research received partial funding from the Connecting Nature project (Grant Agreement No. 730222) under the European Community’s Framework Program Horizon 2020.
