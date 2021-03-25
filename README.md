@@ -47,7 +47,7 @@ Want to learn more? Check out [DiversiTree's Website!](https://diversitree.netli
 
 _DiversiTree is a project of:_
 
-<a href="https://www.ucd.ie/"><img src="https://raw.githubusercontent.com/nofurtherinformation/TreeDiversity/main/images/ucd.png" width="42px" height="60px" alt="University College Dublin Logo" /></a>&emsp;<a href="http://senseable.mit.edu/"><img src="https://raw.githubusercontent.com/nofurtherinformation/TreeDiversity/main/images/mit_scl_logo_black.svg" alt="Senseable City Lab Logo" width="355px" height="60px"/></a>
+<a href="https://www.ucd.ie/"><img src="https://raw.githubusercontent.com/nofurtherinformation/TreeDiversity/main/images/ucd.png" width="42px" height="60px" alt="University College Dublin Logo" /></a>&emsp;&emsp;&emsp;&emsp;<a href="http://senseable.mit.edu/"><img src="https://raw.githubusercontent.com/nofurtherinformation/TreeDiversity/main/images/mit_scl_logo_black.svg" alt="Senseable City Lab Logo" width="355px" height="60px"/></a>
 
 ___
 
