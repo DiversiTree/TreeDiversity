@@ -26,3 +26,13 @@ Here's the data you'll need to use these notebooks:
 ### Sample Data
 
 Cleaned sample data for Paris, France is provided in this repository. 
+
+### Publication
+
+Galle, N., Halpern, D., Nitoslawski, S., Duarte, F., Ratti, C., & Pilla, F. (2021). [Mapping the diversity of street tree inventories across eight cities internationally using open data](https://senseable.mit.edu/papers/pdf/20210325_Galle-etal_MappingDiversity_UFUG.pdf). Urban Forestry and Urban Greening.
+
+### Website
+
+Want to learn more? Check out [DiversiTree's Website!](https://diversitree.netlify.app/)
+
+_DiversiTree is a project of:_
